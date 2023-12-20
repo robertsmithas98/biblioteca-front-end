@@ -1,0 +1,66 @@
+/*main{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+.container,
+.container-fluid {
+    padding-left: 5.0rem;
+}   */
+
+
+/*aside{
+    background-color: darkseagreen;
+    color: black;
+}*/
+
+
+body {
+    padding-top: 60px;
+}
+
+
+.color-white {
+    color: white;
+}
+
+
+.border-white {
+    border: solid 2px white;
+}
+
+
+.card-header {
+    background-color: rgb(113, 214, 18);
+}
+
+
+.btn-suporte {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: 3rem;
+    width: 60px;
+    height: 60px;
+}
+
+
+.div-chat {
+    position: fixed;
+    right: 10px;
+    bottom: 70px;
+    border-radius: 5px;
+    border: solid 1px black;
+    width: 300px;
+    background-color: white;
+    padding: 10px;
+}
+
+
+footer{
+    text-align: center;
+}
+
+
+a:link {text-decoration: none;}

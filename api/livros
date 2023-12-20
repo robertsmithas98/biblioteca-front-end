@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "O Senhor dos Anéis 1 - A Sociedade do Anel",
+        "capa": "https://harpercollins.com.br/cdn/shop/products/9786555113631_79a81e4f-07c1-4aa8-ba58-b44033442bbf.jpg?v=1686061056",
+        "video": "https://www.youtube.com/embed/znzi5_kCEtU"
+    },
+    {
+        "id": 2,
+        "nome": "O Senhor dos Anéis 2 - As Duas Torres",
+        "capa": "https://m.media-amazon.com/images/I/41lg3g7TAUL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "video": "https://www.youtube.com/embed/nmbsFeJ5EA0"
+    },
+    {
+        "id": 3,
+        "nome": "O Senhor dos Anéis 3 - O Retorno do Rei",
+        "capa": "https://harpercollins.com.br/cdn/shop/products/9786555113662_44bc4e0d-f1c5-4ae0-9df5-ae703095b13d_1200x1200.jpg?v=1686057505",
+        "video": "https://www.youtube.com/embed/CaimcEcFuMg"
+    }
+]
